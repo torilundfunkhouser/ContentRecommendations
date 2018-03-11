@@ -13,5 +13,5 @@ This website lets you store the TV shows and movies your friends recommended to 
 then `python seed_data.py`.
 5) Run the application within the VM by typing `python flask_webserver.py` into
 the Terminal. 
-6) Access the application by visiting http://localhost:8000 locally in your
+6) Access the application by visiting <http://localhost:8000> locally in your
 browser.
