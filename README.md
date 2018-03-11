@@ -6,8 +6,8 @@ Hm, what was that show your friend recommended to you on Netflix again? With so 
 This website lets you store the TV shows and movies your friends recommended to you — so you can watch them later. Write descriptions your friends gave you so you can remember why you wanted to watch the show!
 
 # How to View the Site
-1) Install Vagrant and VirtualBox 
-2) Clone the fullstack-nanodegree-vm repository. 
+1) Install Vagrant <https://www.vagrantup.com/> and VirtualBox <https://www.virtualbox.org/>.
+2) Clone the fullstack-nanodegree-vm repository <https://github.com/udacity/fullstack-nanodegree-vm>. 
 3) Launch the Vagrant VM (run vagrant up).
 4) Set up the database and add some data by running `python database_setup.py`
 then `python seed_data.py`.
