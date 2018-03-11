@@ -9,9 +9,9 @@ This website lets you store the TV shows and movies your friends recommended to 
 1) Install Vagrant and VirtualBox 
 2) Clone the fullstack-nanodegree-vm repository. 
 3) Launch the Vagrant VM (run vagrant up).
-4) Set up the database and add some data by running database_setup.py
-then run seed_data.py.
-5) Run the application within the VM by typing python flask_webserver.py into
+4) Set up the database and add some data by running `python database_setup.py`
+then `python seed_data.py`.
+5) Run the application within the VM by typing `python flask_webserver.py` into
 the Terminal. 
 6) Access the application by visiting http://localhost:8000 locally in your
 browser.
